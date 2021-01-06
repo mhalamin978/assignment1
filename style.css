@@ -76,5 +76,27 @@ p{
     right: 20%;
 }
 .bottom-text{
+    margin-top: 150px;
     text-align: center;
+}
+footer{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.site-review{
+    background-color: rgba(0, 0, 255, 0.712);
+    border-radius: 10px;
+    width: 80%;
+    padding-left: 9px;
+    
+}
+.review{
+    background-color: rgb(226, 222, 222);
+    border-radius: 30px;
+    padding-left: 30px;
+}
+.reviewer{
+    height: 80px;
+    border-radius: 50px;
+    padding-left: 30px;
 }
