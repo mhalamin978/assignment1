@@ -1,0 +1,77 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin:0px;
+}
+
+.orange-highlight{
+    color: orange;
+}
+section{
+    height: 500px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.half-width{
+    height: 100%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    height:100% ;
+}
+.important-tag{
+    width: bold;
+    text-align: center;
+}
+p{
+    margin-bottom:40px ;
+}
+.click-bar{
+    text-decoration: none;
+    text-align: center;
+    border-radius:20px;
+    padding:20px 40px;
+    background-image: linear-gradient(salmon,tomato);
+    color: white;
+}
+.one-third-width{
+    width: 25%;
+    margin-left: 5%;
+    float: left;
+    background-color: white;
+}
+.one-third-width img{
+    width: 100%;
+}
+.box-shadow{
+    box-shadow: 20px 20px 40px grey;
+    border: 10px;
+    border-radius:10px ;
+    text-align: center;
+}
+.container{
+    position: relative;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    object-fit: cover;
+}
+.container img{
+    max-width: 80%;
+}
+.bottom-left{
+    position:absolute;
+    top: 50%;
+    left:20%;
+    color: white;
+}
+.bottom-right{
+    position: absolute;
+    top: 50%;
+    right: 20%;
+}
+.bottom-text{
+    text-align: center;
+}
