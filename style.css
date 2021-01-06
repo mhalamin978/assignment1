@@ -2,13 +2,16 @@ body{
     font-family: 'Open Sans', sans-serif;
     margin:0px;
 }
-
+h1{
+    font-size: 60px;
+}
 .orange-highlight{
     color: orange;
 }
 section{
+    font-size: 20px;
     height: 500px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     margin-top: 30px;
 }
 .half-width{
@@ -63,8 +66,8 @@ p{
 }
 .bottom-left{
     position:absolute;
-    top: 50%;
-    left:20%;
+    top: 25%;
+    left:15%;
     color: white;
 }
 .bottom-right{
